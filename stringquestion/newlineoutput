@@ -1,0 +1,27 @@
+enter the string:kuldeep
+
+k
+u
+l
+d
+e
+e
+p
+PS C:\Users\admin\Desktop\dsa file\stringquestion> cd "c:\Users\admin\Desktop\dsa file\stringquestion\" ; if ($?) { gcc newline.c -o newline } ; if ($?) { .\newline }
+newline.c: In function 'main':
+newline.c:10:3: warning: call to 'gets' declared with attribute warning: Using gets() is always unsafe - use fgets() instead [-Wattribute-warning]
+   10 |   gets(str);
+      |   ^~~~~~~~~
+enter the string:how are you
+
+h
+o
+w
+
+a
+r
+e
+
+y
+o
+u
